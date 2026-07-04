@@ -16,7 +16,7 @@ here is inspectable with no login required.
 |------|-----------|------------|
 | `docs/answer.pdf` | The written answer (main submission) | — |
 | `artifacts/architecture.md` | System diagram (Mermaid, renders on GitHub) + ASCII fallback | Tier 2 |
-| `artifacts/architecture.png` | Rendered diagram image (also embedded in the PDF) | Tier 2 |
+| `artifacts/architecture.jpg` | Rendered diagram image (also embedded in the PDF) | Tier 2 |
 | `artifacts/cost_model.xlsx` | AWS cost model with live formulas + labeled assumptions | Tier 2 |
 | `artifacts/capacity_output.txt` | Frozen console output of the ingestion simulation | Tier 2/3 |
 | `scripts/simulate_ingestion.py` | Runnable proof: zero-loss ingestion under a 10x spike | Tier 2 |
